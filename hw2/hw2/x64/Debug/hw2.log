@@ -1,3 +1,0 @@
-﻿  FileName.cpp
-C:\Users\dltkg\Desktop\hw2\hw2\FileName.cpp(103,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  hw2.vcxproj -> C:\Users\dltkg\Desktop\hw2\x64\Debug\hw2.exe
